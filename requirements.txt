@@ -1,0 +1,8 @@
+tensorflow>=2.15
+numpy
+matplotlib
+scikit-learn
+Pillow
+opencv-python>=4.8,<5
+streamlit
+kaggle

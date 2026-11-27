@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# Dataset and trained weights are too large for GitHub
+data/*
+!data/README.md
+models/*
+!models/.gitkeep
+results/*
+!results/.gitkeep
